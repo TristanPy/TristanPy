@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TristanPy
-- 👀 I’m interested in research in Medical Robotics, "Environmental" research, Machine learning and Deep Learning
-- 🌱 I’m currently learning Machine Learning algorithms
-- 💞️ I’m looking to collaborate on any projects related to medical robotics or environmental research involving machine learning.
+- 👀 I am particularly drawn to companies that prioritize reducing the carbon footprint of AI while driving innovation in the fields of health care, energy or edtech.
+- 🌱 I’m currently follow Hugging Face NLP Course : https://huggingface.co/learn/nlp-course/
+- 💞️ I’m looking to collaborate on any projects related to frugal AI.
 - 📫 How to reach me ...
 
 <!---
